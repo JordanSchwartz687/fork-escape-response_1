@@ -1,3 +1,10 @@
+This is a forked repo of the 2019 eNeuron paper " A Computational Model of the Escape Response Latency in the Giant Fiber System of Drosophila melanogaster" by Augustin, H, Zylbertal, A and Partridge L
+
+The purpose of this fork is to create a shared starting point for the Spring 2026 Pena Lab Project Team to work towards reproducing the paper using Brian2
+
+We installed neuron=7.6.7 because it came out around the time of the original paper
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Model files from the manuscript:
 
 Augustin, H, Zylbertal, A and Partridge L, "A computational model of the escape latency in the Giant Fiber System of D. melanogaster" (preprint)

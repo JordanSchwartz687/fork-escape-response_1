@@ -1,0 +1,7 @@
+name: neuron2018
+channels:
+  - conda-forge
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - neuron=7.6.7
