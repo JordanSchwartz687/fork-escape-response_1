@@ -8,4 +8,3 @@ dependencies:
   - neuron=7.5.0
   - ipykernel
   - brian2
-prefix: /home/srsebwsl/anaconda3/envs/neuron2018
