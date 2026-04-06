@@ -5,6 +5,7 @@ channels:
   - https://repo.anaconda.com/pkgs/r
 dependencies:
   - matplotlib
-  - neuron=7.5.0
   - ipykernel
   - brian2
+  - pip:
+      - neuron==7.5.0
